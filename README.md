@@ -105,8 +105,8 @@ The **CNN + Transformer** and **ESPF + AAC** combinations delivered the best ove
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/DeepDPI.git
-cd DeepDPI
+git clone https://github.com/yourusername/BTP.git
+cd BTP
 
 # Create a virtual environment
 python -m venv venv
@@ -141,26 +141,9 @@ print(f"Active compound: {'Yes' if result['is_active'] else 'No'}")
 - Explore transfer learning and pre-training techniques
 - Implement feature importance analysis for both ML and DL models
 
-## Citation
-
-If you use DeepDPI in your research, please cite:
-
-```
-@article{author2025deepdpi,
-  title={DeepDPI: Advancing Drug Discovery through Deep Learning-Enhanced Prediction of Drug-Protein Interactions},
-  author={Author, A. and Author, B.},
-  journal={Journal Name},
-  year={2025},
-  publisher={Publisher Name}
-}
-```
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
 
-- ChEMBL and BELKA databases for providing valuable data
+- ChEMBL, BindingDB and Uniprot databases for providing valuable data
 - RDKit library for cheminformatics functionality
 - The research community for continuous advancements in drug discovery methods
