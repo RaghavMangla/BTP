@@ -1,6 +1,5 @@
 # DeepDPI: Advancing Drug Discovery through Deep Learning-Enhanced Prediction of Drug-Protein Interactions
 
-![DeepDPI Banner](https://via.placeholder.com/800x200?text=DeepDPI)
 
 ## Overview
 
