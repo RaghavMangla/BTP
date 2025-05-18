@@ -1,0 +1,27 @@
+name: DeepPurpose
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - scipy
+  - pandas
+  - scikit-learn
+  - scikit-plot
+  - matplotlib
+  - seaborn
+  - pytorch
+  - torchvision
+  - botorch
+  - descriptastorus
+  - gpytorch
+  - ipykernel
+  - notebook
+  - pip
+  - pip:
+    - ax-platform
+    - autograd
+    - lifelines
+    - wget
+    - requests
